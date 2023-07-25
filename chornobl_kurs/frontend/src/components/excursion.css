@@ -1,0 +1,91 @@
+.css-jcfe1v-MuiContainer-root{
+    width: 1000px !important;
+}
+
+.MuiContainer-root.MuiContainer-maxWidthMd.css-jcfe1v-MuiContainer-root{
+    width: 100% !important;
+}
+
+.css-480o17-MuiGrid-root>.MuiGrid-item{
+    width: 900px !important;
+}
+
+.css-sghohy-MuiButtonBase-root-MuiButton-root{
+    background-color: rgba(0, 0, 0, 0.717) !important;
+    display: flex;
+    justify-content: center;
+    width: 30%;    
+}
+
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled{
+    -webkit-text-fill-color: rgb(255 255 255 / 53%) !important;
+    padding-left: 270px;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-disabled {
+    color: rgb(255 255 255 / 53%) !important;
+    cursor: default;
+}
+
+#txtField{
+    margin-bottom: -50px;
+    padding-top: 45px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    font-size: large;
+    justify-items: center;
+    display: flex;
+    width: 50%;
+}
+
+.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root.Mui-disabled .MuiOutlinedInput-notchedOutline {
+    border-color: rgb(255 255 255 / 53%) !important;
+}
+
+#butSign{
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.css-480o17-MuiGrid-root {
+    display: flex !important;
+    flex-direction: row;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.css-jcfe1v-MuiContainer-root {
+    max-width: 100% !important;    
+}
+
+.css-jcfe1v-MuiContainer-root {
+    margin-left: auto;
+    box-sizing: border-box;
+    margin-right: auto;
+    display: block;
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+    padding-top: 64px;
+    padding-bottom: 64px;
+}
+
+.css-jcfe1v-MuiContainer-root {
+    padding-left: 24px !important;
+    padding-right: 24px !important;
+    margin-left: 170px;
+}
+
+main{
+    display: flex !important;
+    flex-direction: row;
+    justify-content: center !important;
+    align-items: center !important;
+}
+

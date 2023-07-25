@@ -1,0 +1,96 @@
+.BlockInfo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, rgb(22, 22, 1), rgb(0, 0, 0));    
+    padding: 25px;
+    margin-top: 50px;
+    padding: 20px;
+    color: rgb(196 195 195 / 87%) !important;
+    gap: 200px
+}
+
+.subfooter {
+    color: rgb(174, 161, 161);
+    background-color: #000;
+
+    text-align: center;
+    padding: 10px;
+    opacity: 0.89;
+    font-weight: bold;
+}
+
+.Top {
+    position:static;
+    font-family: "Times New Roman", Times, serif;
+    color: white;
+    padding:5px;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-position: center;
+    z-index: 1;
+}
+header {
+    width: 100%;
+    height: 127px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+    text-align: right;
+    padding: 5px;
+    padding-right: 20px;
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.9);
+    margin: 0;
+    z-index: 99999;
+}
+
+.css-q8hpuo-MuiFormControl-root{
+    display: flex;
+    margin-top: 70px !important;
+    height: 125px !important;
+    width: 125px !important;
+    color: rgb(196 195 195 / 87%) !important;
+    font-size: 10px !important; 
+
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+    color: rgb(196 195 195 / 87%) !important;
+}
+
+.css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color: rgba(196, 195, 195, 0.662) !important;
+    display: flex !important;
+    width: 125px !important;
+    height: 125px !important;
+    font-size: 16px !important;
+    text-decoration: none !important;
+}
+
+.css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: rgba(196, 195, 195, 0.662) !important;
+}
+
+a{
+    text-decoration: none !important;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root{
+    color: rgb(196 195 195 / 87%) !important;
+    text-decoration: none !important;
+}
+
+.css-1ka5eyc-MuiPaper-root-MuiMenu-paper-MuiPopover-paper{
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    color: rgb(196 195 195 / 87%) !important;
+}
+
+button{
+    z-index: 2;
+}

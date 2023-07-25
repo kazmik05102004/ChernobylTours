@@ -1,0 +1,33 @@
+.css-ee20y-MuiPaper-root{
+    color: rgba(255 255 255/47%) !important;
+    background-color: #343609 !important;
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    justify-content: center !important;
+    flex-wrap: wrap;
+    width: 987.2px;
+
+}
+
+.css-y2ar5l{
+    position:relative;
+}
+
+#excursion{
+    padding-top: 10px;
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center !important;
+
+}
+
+#but{
+    width: 300px !important;
+    height: 50px !important;
+}
+
+/* .css-1e6y48t-MuiButtonBase-root-MuiButton-root{
+    color: rgba(0, 0, 0, 1) !important;
+} */
